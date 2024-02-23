@@ -42,7 +42,7 @@ npx hardhat run scripts/approveDeposit.js --network goerli
 
 ## Author
 
-[Oloruntoba Adenke](https://github.com/)
+[Oloruntoba Adenike Victoria](https://github.com/VickiAde)
 
 ## License
 
